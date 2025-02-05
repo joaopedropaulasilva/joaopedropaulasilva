@@ -1,5 +1,14 @@
 ## Oii, Seja muito bem vindo(a)
 ## Atualmente sou Jovem Aprendiz na área de Tecnologia, e estou buscando mais e mais melhoria na minha carrreira
+
+<h3 align="center"> Sobre mim</h3>
+
+###
+
+<p align="center">-👨🏾‍💻Estou crescendo na área de Front-End<br><br>-📚Tenho conhecimentos básicos em HTML, CSS e Python<br></p>
+
+###
+
 <div>
   <a href="https://github.com/joaopedropaulasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedropaulasilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
