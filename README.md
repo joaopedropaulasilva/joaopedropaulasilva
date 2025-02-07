@@ -1,5 +1,5 @@
 ## Oii, Seja muito bem vindo(a)
-## Atualmente sou Jovem Aprendiz na área de Tecnologia, e estou buscando mais e mais melhoria na minha carrreira
+## Atualmente sou Jovem Aprendiz na área de Tecnologia, e estou buscando melhorias na minha carrreira
 
 <h3 align="center"> Sobre mim</h3>
 
