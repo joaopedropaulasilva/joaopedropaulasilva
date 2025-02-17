@@ -1,5 +1,5 @@
-## Oii, Seja muito bem vindo(a)
-## Atualmente sou Jovem Aprendiz na área de Tecnologia, e estou buscando melhorias na minha carrreira
+## Olá, Seja muito bem vindo(a) ao meu perfil!
+## Atualmente sou Jovem Aprendiz na área de Tecnologia, e cursando linguagens de programação!
 
 <h3 align="center"> Sobre mim</h3>
 
