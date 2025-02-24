@@ -1,7 +1,7 @@
 ## Olá, Seja muito bem vindo(a) ao meu perfil!
 ## Atualmente sou Jovem Aprendiz na área de Tecnologia, e cursando linguagens de programação!
 
-<h3 align="center"> Sobre mim</h3>
+<h3 align="center"> Sobre mim ;)</h3>
 
 ###
 
