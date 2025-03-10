@@ -5,7 +5,7 @@
 
 ###
 
-<p align="center">-👨🏾‍💻Estou crescendo na área de Front-End e Suporte<br><br>-📚Tenho conhecimentos básicos em HTML, CSS e Python<br></p>
+<p align="center">-👨🏾‍💻Estou crescendo na área de Front-End e Suporte HelpDesk<br><br>-📚Tenho conhecimentos básicos em HTML, CSS e Python<br></p>
 
 ###
 
