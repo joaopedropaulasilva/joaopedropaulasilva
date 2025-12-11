@@ -1,11 +1,11 @@
 ## Olá, Seja muito bem vindo(a) ao meu perfil!
-## Atualmente sou Jovem Aprendiz na área de Tecnologia, e cursando linguagens de programação!
+## Atualmente sou Analista de HelpDesk(N1) na área de Tecnologia, e cursando linguagens de programação!
 
 <h3 align="center"> Sobre mim ;)</h3>
 
 ###
 
-<p align="center">-👨🏾‍💻Estou crescendo na área de Front-End e Suporte HelpDesk<br><br>-📚Tenho conhecimentos básicos em HTML, CSS e Python<br></p>
+<p align="center">-👨🏾‍💻Estou crescendo na área de Front-End e Analista HelpDesk<br><br>-📚Tenho conhecimentos básicos em HTML, CSS e Python<br></p>
 
 ###
 
